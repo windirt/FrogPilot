@@ -3,7 +3,8 @@ import time
 import json
 import jwt
 import os
-import random, string
+import random
+import string
 from pathlib import Path
 
 from datetime import datetime, timedelta
@@ -33,9 +34,7 @@ def register(show_spinner=False) -> str | None:
   needs_registration = None in (IMEI, HardwareSerial, dongle_id)
 
   pubkey = Path(Paths.persist_root()+"/comma/id_rsa.pub")
-  if os.path.isfile("/persist/frogsgomoo.py"):
-    dongle_id = "FrogsGoMoo"
-  elif not pubkey.is_file():
+  if not pubkey.is_file():
     dongle_id = UNREGISTERED_DONGLE_ID
     cloudlog.warning(f"missing public key: {pubkey}")
   elif needs_registration:
