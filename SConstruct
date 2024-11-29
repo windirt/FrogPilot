@@ -365,7 +365,7 @@ Export('messaging')
 
 
 # Build other submodules
-SConscript(['panda/SConscript'])
+#SConscript(['panda/SConscript'])
 
 # Build rednose library
 SConscript(['rednose/SConscript'])
