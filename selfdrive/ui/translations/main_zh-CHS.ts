@@ -2244,7 +2244,7 @@ This overrides &apos;Conditional Experimental Mode&apos;.</source>
     <name>FrogPilotSettingsWindow</name>
     <message>
         <source>Alerts and Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>警报和声音</translation>
     </message>
     <message>
         <source>Driving Controls</source>
