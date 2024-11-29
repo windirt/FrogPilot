@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Disable Internet Check</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用互联网检查</translation>
     </message>
 </context>
 <context>
@@ -92,23 +92,23 @@
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>总是</translation>
     </message>
     <message>
         <source>Only Onroad</source>
-        <translation type="unfinished"></translation>
+        <translation>仅在公路上</translation>
     </message>
     <message>
         <source>Until Reboot</source>
-        <translation type="unfinished"></translation>
+        <translation>直到重新启动</translation>
     </message>
     <message>
         <source>Allow tethering with your data SIM and keep it active either while driving or continuously.</source>
-        <translation type="unfinished"></translation>
+        <translation>允许与您的数据SIM卡绑定，并在驾驶或连续驾驶时保持激活状态。</translation>
     </message>
 </context>
 <context>
@@ -135,77 +135,79 @@
     </message>
     <message>
         <source>Vehicle in blind spot</source>
-        <translation type="unfinished"></translation>
+        <translation>盲区车辆</translation>
     </message>
     <message>
         <source>m/s²</source>
-        <translation type="unfinished"></translation>
+        <translation>m/s²</translation>
     </message>
     <message>
         <source>m/s</source>
-        <translation type="unfinished"></translation>
+        <translation>m/s</translation>
     </message>
     <message>
         <source>kph</source>
-        <translation type="unfinished"></translation>
+        <translation>kph</translation>
     </message>
     <message>
         <source> ft/s²</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Accel: %1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Accel: %1%2</translation>
     </message>
     <message>
         <source> - Max: %1%2</source>
-        <translation type="unfinished"></translation>
+        <translation> - Max: %1%2</translation>
     </message>
     <message>
         <source> | Obstacle: </source>
-        <translation type="unfinished"></translation>
+        <translation> | Obstacle: </translation>
     </message>
     <message>
         <source>  |  Obstacle Factor: </source>
-        <translation type="unfinished"></translation>
+        <translation>  |  Obstacle Factor: </translation>
     </message>
     <message>
         <source> - Stop: </source>
-        <translation type="unfinished"></translation>
+        <translation> - Stop: </translation>
     </message>
     <message>
         <source>  -  Stop Factor: </source>
-        <translation type="unfinished"></translation>
+        <translation>  -  Stop Factor: </translation>
     </message>
     <message>
         <source>Follow: </source>
-        <translation type="unfinished"></translation>
+        <translation>Follow: </translation>
     </message>
     <message>
         <source>Follow Distance: </source>
-        <translation type="unfinished"></translation>
+        <translation>Follow Distance: </translation>
     </message>
     <message>
         <source>Confirm speed limit
 </source>
-        <translation type="unfinished"></translation>
+        <translation>确认速度限制
+</translation>
     </message>
     <message>
         <source>Ignore speed limit
 </source>
-        <translation type="unfinished"></translation>
+        <translation>无视速度限制
+</translation>
     </message>
     <message>
         <source>Conditional Experimental Mode ready</source>
-        <translation type="unfinished"></translation>
+        <translation>条件实验模式准备就绪</translation>
     </message>
     <message>
         <source>Conditional Experimental overridden</source>
-        <translation type="unfinished"></translation>
+        <translation>条件实验模式覆盖</translation>
     </message>
     <message>
         <source>Experimental Mode manually activated</source>
-        <translation type="unfinished"></translation>
+        <translation>手动激活实验模式</translation>
     </message>
     <message>
         <source>Experimental Mode activated for %1</source>
@@ -261,27 +263,27 @@
     </message>
     <message>
         <source>Experimental Mode activated due to no speed limit</source>
-        <translation type="unfinished"></translation>
+        <translation>由于没有速度限制，实验模式已激活</translation>
     </message>
     <message>
         <source>Always On Lateral active</source>
-        <translation type="unfinished"></translation>
+        <translation>始终处于横向活动状态</translation>
     </message>
     <message>
         <source>. Press the &quot;Cruise Control&quot; button to disable</source>
-        <translation type="unfinished"></translation>
+        <translation>.按“巡航控制”按钮禁用</translation>
     </message>
     <message>
         <source>. Long press the &quot;distance&quot; button to revert</source>
-        <translation type="unfinished"></translation>
+        <translation>. 长按“距离”键恢复</translation>
     </message>
     <message>
         <source>. Click the &quot;LKAS&quot; button to revert</source>
-        <translation type="unfinished"></translation>
+        <translation>.点击“LKAS”按钮恢复</translation>
     </message>
     <message>
         <source>. Double tap the screen to revert</source>
-        <translation type="unfinished"></translation>
+        <translation>.双击屏幕以恢复</translation>
     </message>
 </context>
 <context>
@@ -484,31 +486,31 @@
     <name>DriveStats</name>
     <message>
         <source>ALL TIME</source>
-        <translation type="unfinished"></translation>
+        <translation>所有时间</translation>
     </message>
     <message>
         <source>PAST WEEK</source>
-        <translation type="unfinished"></translation>
+        <translation>上周</translation>
     </message>
     <message>
         <source>FROGPILOT</source>
-        <translation type="unfinished"></translation>
+        <translation>FROGPILOT</translation>
     </message>
     <message>
         <source>Drives</source>
-        <translation type="unfinished"></translation>
+        <translation>驾驶</translation>
     </message>
     <message>
         <source>Hours</source>
-        <translation type="unfinished"></translation>
+        <translation>小时</translation>
     </message>
     <message>
         <source>KM</source>
-        <translation type="unfinished"></translation>
+        <translation>公里</translation>
     </message>
     <message>
         <source>Miles</source>
-        <translation type="unfinished"></translation>
+        <translation>英里</translation>
     </message>
 </context>
 <context>
@@ -1461,7 +1463,7 @@ Deactivate only occurs with the &apos;Cruise Control&apos; button.</source>
     </message>
     <message>
         <source>Experimental Mode</source>
-        <translation type="unfinished">测试模式</translation>
+        <translation>实验模式</translation>
     </message>
     <message>
         <source>Previous Limit</source>
@@ -1469,7 +1471,7 @@ Deactivate only occurs with the &apos;Cruise Control&apos; button.</source>
     </message>
     <message>
         <source>SELECT</source>
-        <translation type="unfinished">选择</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>Dashboard</source>
@@ -3721,7 +3723,7 @@ Default matches half of the MUTCD standard of 4 inches.</source>
     </message>
     <message>
         <source>FrogPilot</source>
-        <translation type="unfinished"></translation>
+        <translation>FrogPilot</translation>
     </message>
 </context>
 <context>
@@ -3789,35 +3791,35 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>← Back</source>
-        <translation type="unfinished"></translation>
+        <translation>← 返回</translation>
     </message>
     <message>
         <source>FrogPilot</source>
-        <translation type="unfinished"></translation>
+        <translation>FrogPilot</translation>
     </message>
     <message>
         <source>Welcome to FrogPilot! Since you&apos;re new to FrogPilot, the &apos;Basic&apos; toggle preset has been applied, but you can change this at any time via the &apos;Customization Level&apos; button!</source>
-        <translation type="unfinished"></translation>
+        <translation>欢迎使用 FrogPilot！由于您是 FrogPilot 的新用户，因此已应用了 &quot;基本 &quot;切换预设，但您可以随时通过 &quot;自定义级别 &quot;按钮进行更改！</translation>
     </message>
     <message>
         <source>Sounds good!</source>
-        <translation type="unfinished"></translation>
+        <translation>听起来不错！</translation>
     </message>
     <message>
         <source>Since you&apos;re fairly new to FrogPilot, the &apos;Basic&apos; toggle preset has been applied, but you can change this at any time via the &apos;Customization Level&apos; button!</source>
-        <translation type="unfinished"></translation>
+        <translation>由于您对 FrogPilot 相当陌生，因此已应用“基本”切换预设，但您可以随时通过“自定义级别”按钮更改此设置！</translation>
     </message>
     <message>
         <source>Since you&apos;re experienced with openpilot, the &apos;Standard&apos; toggle preset has been applied, but you can change this at any time via the &apos;Customization Level&apos; button!</source>
-        <translation type="unfinished"></translation>
+        <translation>由于您对 openpilot 有丰富的经验，因此已应用“标准”切换预设，但您可以随时通过“自定义级别”按钮更改此设置！</translation>
     </message>
     <message>
         <source>Since you&apos;re experienced with FrogPilot, the &apos;Standard&apos; toggle preset has been applied, but you can change this at any time via the &apos;Customization Level&apos; button!</source>
-        <translation type="unfinished"></translation>
+        <translation>由于您已经对 FrogPilot 有了一定的使用经验，因此 &quot;标准 &quot;切换预设已被应用，但您可以随时通过 &quot;自定义级别 &quot;按钮进行更改！</translation>
     </message>
     <message>
         <source>Since you&apos;re very experienced with FrogPilot, the &apos;Advanced&apos; toggle preset has been applied, but you can change this at any time via the &apos;Customization Level&apos; button!</source>
-        <translation type="unfinished"></translation>
+        <translation>由于您对 FrogPilot 非常有经验，因此已经应用了 &quot;高级 &quot;切换预设，但您可以随时通过 &quot;自定义级别 &quot;按钮进行更改！</translation>
     </message>
 </context>
 <context>
@@ -4014,27 +4016,27 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>GPU</translation>
     </message>
     <message>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU</translation>
     </message>
     <message>
         <source> GB</source>
-        <translation type="unfinished"></translation>
+        <translation> GB</translation>
     </message>
     <message>
         <source>MEMORY</source>
-        <translation type="unfinished"></translation>
+        <translation>内存</translation>
     </message>
     <message>
         <source>LEFT</source>
-        <translation type="unfinished"></translation>
+        <translation>剩余</translation>
     </message>
     <message>
         <source>USED</source>
-        <translation type="unfinished"></translation>
+        <translation>已用</translation>
     </message>
 </context>
 <context>
@@ -4113,35 +4115,35 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>Updates are only downloaded while the car is off or in park.</source>
-        <translation type="unfinished"></translation>
+        <translation>更新仅在汽车熄火或停车时下载。</translation>
     </message>
     <message>
         <source>Automatically Update FrogPilot</source>
-        <translation type="unfinished"></translation>
+        <translation>自动更新FrogPilot</translation>
     </message>
     <message>
         <source>FrogPilot will automatically update itself and it&apos;s assets when you&apos;re offroad and connected to Wi-Fi.</source>
-        <translation type="unfinished"></translation>
+        <translation>FrogPilot 会在您离开公路并连接到 Wi-Fi 时自动更新自身和资产。</translation>
     </message>
     <message>
         <source>Error Log</source>
-        <translation type="unfinished"></translation>
+        <translation>错误日志</translation>
     </message>
     <message>
         <source>VIEW</source>
-        <translation type="unfinished">查看</translation>
+        <translation>查看</translation>
     </message>
     <message>
         <source>View the error log for openpilot crashes.</source>
-        <translation type="unfinished"></translation>
+        <translation>查看 openpilot 崩溃的错误日志。</translation>
     </message>
     <message>
         <source>Do you want to delete deep storage FrogPilot assets? This is 100% unrecoverable and includes FrogPilot stats and toggle settings for quick reinstalls.</source>
-        <translation type="unfinished"></translation>
+        <translation>您想删除深度存储的 FrogPilot 资产吗？这是 100% 不可恢复的，其中包括用于快速重新安装的 FrogPilot 统计数据和切换设置。</translation>
     </message>
     <message>
         <source>Are you sure? This is 100% unrecoverable and includes FrogPilot stats and toggle settings for quick reinstalls.</source>
-        <translation type="unfinished"></translation>
+        <translation>您确定吗？这是 100% 不可恢复的，包括 FrogPilot 统计数据和用于快速重装的切换设置。</translation>
     </message>
 </context>
 <context>
