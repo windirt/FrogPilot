@@ -365,30 +365,30 @@ Export('messaging')
 #SConscript(['rednose/SConscript'])
 
 # Build system services
-SConscript([
-  'system/ui/SConscript',
-  'system/proclogd/SConscript',
-  'system/ubloxd/SConscript',
-  'system/loggerd/SConscript',
-])
-if arch != "Darwin":
-  SConscript([
-    'system/sensord/SConscript',
-    'system/logcatd/SConscript',
-  ])
+# SConscript([
+#   'system/ui/SConscript',
+#   'system/proclogd/SConscript',
+#   'system/ubloxd/SConscript',
+#   'system/loggerd/SConscript',
+# ])
+# if arch != "Darwin":
+#   SConscript([
+#     'system/sensord/SConscript',
+#     'system/logcatd/SConscript',
+#   ])
 
-if arch == "larch64":
-  SConscript(['system/camerad/SConscript'])
+# if arch == "larch64":
+#   SConscript(['system/camerad/SConscript'])
 
-# Build openpilot
-SConscript(['third_party/SConscript'])
+# # Build openpilot
+# SConscript(['third_party/SConscript'])
 
-SConscript(['selfdrive/SConscript'])
+# SConscript(['selfdrive/SConscript'])
 
-if Dir('#tools/cabana/').exists() and GetOption('extras'):
-  SConscript(['tools/replay/SConscript'])
-  if arch != "larch64":
-    SConscript(['tools/cabana/SConscript'])
+# if Dir('#tools/cabana/').exists() and GetOption('extras'):
+#   SConscript(['tools/replay/SConscript'])
+#   if arch != "larch64":
+#     SConscript(['tools/cabana/SConscript'])
 
 external_sconscript = GetOption('external_sconscript')
 if external_sconscript:
